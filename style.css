@@ -12,7 +12,7 @@
     font-weight: bold;
 }
 
-.font_size
+#font_size
 {
     color:white;
     font-size: 23px;
@@ -31,7 +31,7 @@
 
 canvas
 {
-    background-color: white;
+    background-color: lightskyblue;
     box-shadow: 5px 5px 5px grey;
     border-radius: 20px;
    
