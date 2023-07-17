@@ -27,6 +27,7 @@ function gotPoses(results) {
 }
 
 function draw() {
+    background("blue")
     fill("white");
     stroke("black");
     textSize(difference);
